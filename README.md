@@ -1,5 +1,4 @@
 # Toffees-Quest
-Instructions for Toffee’s Quest
 
 Names: Arya Afsheen and Vivian Peng
 Date: Thursday, January 18, 2023
@@ -8,6 +7,7 @@ Teacher: Ms. Strelkovska
 Program Name: Toffee’s Quest
 
 Purpose of program
+-----------
 Welcome to Toffee’s Quest, a platform game containing
 1) 3 levels
 2) A puzzle
