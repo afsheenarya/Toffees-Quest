@@ -1,9 +1,13 @@
 # Toffees-Quest
 
 Names: Arya Afsheen and Vivian Peng
+
 Date: Thursday, January 18, 2023
+
 Class: ICS3U7
+
 Teacher: Ms. Strelkovska
+
 Program Name: Toffee’s Quest
 
 Purpose of program
@@ -23,7 +27,7 @@ First Button: “Game”
 	- This button leads to the game panel, which contains 3 platform levels and a puzzle at the end. Users must collect the scroll on each level to pass on to the next. Being hit by a bug decreases 1 health. Player has 3 health in total. If the player dies, it will be counted as a loss and the user will have to restart on the level they died on.
 
 Second Button: “Statistics”
-	- This button leads to the statistics panel, which displays the user’s losses and wins. A loss is counted when the player dies. A win is counted when the user completes all 3 levels and the culminating puzzle. The stats page resets after surpassing ___.
+	- This button leads to the statistics panel, which displays the user’s losses and wins. A loss is counted when the player dies. A win is counted when the user completes all 3 levels and the culminating puzzle.
 
 Third Button: “Instructions”
 	- This button leads to the instructions panel.
